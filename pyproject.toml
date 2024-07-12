@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "litedocai"
-version = "v0.1.1"
+version = "v0.1.2"
 description = "Call all Document AI APIs using a common format. Use Azure, Google, Amazon or own system."
 authors = ["Enrique <ebotiabarbera@gmail.com>"]
 license = "MIT"
